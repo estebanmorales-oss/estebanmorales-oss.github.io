@@ -5,4 +5,4 @@ This Page is hosted on estebanmorales-oss.github.io!
 
 This is a practice page for CS155!
 
-My name is Esteban Morales and I have from Idaho. My hobbies include, basketball, soccer, and football! When I have free time I enjoy going to the gym. 
+My name is Esteban Morales and I am from Idaho. My hobbies include, basketball, soccer, and football! When I have free time I enjoy going to the gym. 
